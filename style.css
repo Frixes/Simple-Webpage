@@ -37,6 +37,7 @@ body {
     display: flex;
     flex-direction: row;
     justify-content: center;
+    flex-wrap: wrap;
     gap: 120px;
     margin-bottom: 60px;
 }
@@ -94,6 +95,7 @@ body {
 .kum-gambar {
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
 }
 
 .kum-gambar img {
